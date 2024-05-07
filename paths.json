@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/eds-training/:/",
-    "/content/eds-training/configuration:/.helix/config.json"
+    "/content/eds-training-new/:/",
+    "/content/eds-training-new/configuration:/.helix/config.json"
   ]
 }
