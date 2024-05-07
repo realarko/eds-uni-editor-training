@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "author-p102857-e1312424.adobeaemcloud.com/bin/franklin.delivery/realarko/eds-uni-editor-training/main"
+    url: "https://author-p102857-e1312424.adobeaemcloud.com/bin/franklin.delivery/realarko/eds-uni-editor-training/main"
     type: "markup"
     suffix: ".html"
